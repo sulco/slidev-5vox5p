@@ -89,7 +89,7 @@ h1 {
 
 Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/navigation.html)
 
-### Keyboard Shortcuts
+### Keyboard Shortcuts:
 
 |     |     |
 | --- | --- |
